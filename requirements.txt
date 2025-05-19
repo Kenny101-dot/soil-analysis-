@@ -1,0 +1,20 @@
+# Grundlagen für Datenanalyse
+pandas
+numpy
+
+# Visualisierung
+matplotlib
+seaborn
+plotly
+
+# Dateiformat: XML, XLSX, RDF
+openpyxl                # für .xlsx Dateien
+lxml                    # für .xml und HTML-Parsing
+xmltodict              # einfaches XML -> dict
+rdflib                 # für RDF-Dateien (.rdf, .ttl)
+
+# Praktisch für Transformation und EDA
+jupyterlab             # interaktive Analyseumgebung
+ipython
+tqdm                   # Fortschrittsbalken
+pyarrow                # für schnelle Dateioperationen
